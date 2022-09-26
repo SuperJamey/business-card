@@ -1,7 +1,8 @@
 body {
     margin: 20px;
     font-family: Courier New, Courier, monospace;
-    background-color: skyblue;
+    background-image: url("images/background.jpg");
+    background-size: cover;
 }
 
 .avatar {
@@ -15,14 +16,18 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #faf0ca;
+    background: #dfa162;
     color: #2b2839;
-    border-bottom: 6px solid #f4d13e;
+    border-bottom: 6px solid #8b6a2b;
     border-radius: 25px;
 }
 
-.quote {
-    text-align: left;
+#quote {
+    text-align: center;
+}
+
+.story {
+    text-align: center;
     padding: 20px;
 }
 
