@@ -1,0 +1,14 @@
+body {
+    background-color: indigo;
+}
+
+h1, h3 {
+    background-color: indigo;
+    margin-left: 20px;
+}
+
+#paragraph {
+    background-color: indigo;
+    margin-left: 20px;
+    padding-top: 15px;
+}
